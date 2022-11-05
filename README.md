@@ -1,1 +1,1 @@
-Brain Tumor Detetion CNN
+Brain Tumor Detection CNN
